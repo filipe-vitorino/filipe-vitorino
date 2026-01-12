@@ -20,5 +20,4 @@ Tenho interesse em desenvolvimento de software, arquitetura de sistemas e soluç
   Sistema acadêmico para gerenciamento de informações de equipamentos, integrando dados de microcontroladores para apoio à gestão.
 
 ## Contato
-- LinkedIn: https://www.linkedin.com/in/filipe-vitorino-435a9a3a4/  
-- Email: filipe0vit@gmail.com
+- LinkedIn: https://www.linkedin.com/in/filipeb-vitorino/  
