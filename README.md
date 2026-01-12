@@ -1,16 +1,24 @@
-## Hi there 👋
+# Filipe Barros Vitorino
 
-<!--
-**filipe-vitorino/filipe-vitorino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Bacharel em Ciência da Computação pela Universidade Federal de Minas Gerais (UFMG)  
+💻 Desenvolvedor de Software com experiência em projetos acadêmicos e sistemas reais  
 
-Here are some ideas to get you started:
+## Sobre mim
+Sou formado em Ciência da Computação pela UFMG, com atuação em desenvolvimento de software e gestão de projetos. Participei de projetos voltados a clientes reais em Empresa Júnior, exercendo tanto funções técnicas quanto de liderança.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+No âmbito acadêmico, desenvolvi um sistema de gestão para o Programa Água Doce (PAD), iniciativa do Governo Federal voltada ao acesso à água potável em comunidades do semiárido brasileiro. O projeto envolveu integração de dados coletados por microcontroladores e apoio à gestão técnica e à tomada de decisão.
+
+Tenho interesse em desenvolvimento de software, arquitetura de sistemas e soluções tecnológicas aplicadas a problemas reais.
+
+## Tecnologias
+- **Linguagens:** Dart, Python, C/C++, SQL  
+- **Frameworks:** Flutter, Django, Flask 
+- **Outros:** Git, ESP32, Bancos de Dados, Arquitetura de Software  
+
+## Projetos em destaque
+- 📌 **Sistema de Gestão – Programa Água Doce (PAD)**  
+  Sistema acadêmico para gerenciamento de informações de equipamentos, integrando dados de microcontroladores para apoio à gestão.
+
+## Contato
+- LinkedIn: https://www.linkedin.com/in/filipe-vitorino-435a9a3a4/  
+- Email: filipe0vit@gmail.com
